@@ -1,7 +1,7 @@
 # easy-list
 Android Multi DataSource Paging Library in few steps. Using LiveData, AndroidX Paging and ViewModel.
 
-[![](https://jitpack.io/v/nicolasCastro/easy-list.svg)](https://jitpack.io/#nicolasCastro/easy-list)
+[![](https://jitpack.io/v/santiagorugnitz/easy-list.svg)](https://jitpack.io/#santiagorugnitz/easy-list)
 
 Easy way to use paging android library with any datasource (Retrofit, Room, Realm, Json, static data, etc..) in a few steps.
 
@@ -9,7 +9,7 @@ Easy way to use paging android library with any datasource (Retrofit, Room, Real
 
 Add the library dependency:
 
-     implementation 'com.github.nicolasCastro.easy-list:easypagedlist:X.Y.Z'
+     implementation 'com.github.santiagorugnitz.easy-list:easypagedlist:X.Y.Z'
      
 ### DataSource
 
